@@ -1,6 +1,7 @@
 .b{height: 650px;}
 body{  background-color: rgb(223, 223, 223)!important;}
 .navbar{padding:0px 30px 0px 30px}
-.row{padding:30px 30px 30px 30px;}
-.card{min-width:348px!important; margin:0 10px 0 10px}
+.row{padding:30px 30px 30px 30px;margin-right: calc(var(--bs-gutter-x)/ -0)!important;}
+.card{min-width:348px!important; margin:0 20px 0 20px}
 .main{background-color: white;}
+body{margin:0;}
